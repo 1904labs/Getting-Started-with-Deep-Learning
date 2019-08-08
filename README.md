@@ -7,4 +7,4 @@ The Google slides can be found [here](https://docs.google.com/presentation/d/1Gq
 
 # To run notebooks, you need a number of python libraries. 
 Option 1: Create a virtual env with python 3.6 and the dependencies in `requirements.txt`  
-Option 2: Build and run the included Dockerfile. *coming soon - check back for updates*
+Option 2: Build and run the included Dockerfile. Note: Be sure to mount a volume when running the Docker image so that your work is saved to your local drive.
