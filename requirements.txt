@@ -1,0 +1,7 @@
+tensorflow 
+h5py 
+matplotlib 
+notebook 
+Pillow 
+keras 
+    
