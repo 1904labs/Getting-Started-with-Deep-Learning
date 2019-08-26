@@ -1,7 +1,7 @@
 # Getting-Started-with-Deep-Learning
 Getting Started with Deep Learning  
 
-This repository contains Jupyter notebooks to accompany the STL Big Data Meetup presentation on Aug 7 2019.  
+This repository contains Jupyter notebooks to accompany the STL Big Data Meetup presentation on Aug 7, 2019 and the STL Python Meetup presentation on Sep 18, 2019.
 
 The Google slides can be found [here](https://docs.google.com/presentation/d/1Gq9tk3f8Mw9nos8zuzjc9kbxzVZQ_mJo1VxUwnB7h48/edit?usp=sharing).  
 
